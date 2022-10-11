@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://img.freepik.com/premium-vector/abstract-line-pattern-texture-background_147754-9.jpg?w=2000");
+    background-repeat: repeat-x;
+}
+
+.down {
+    background-color:  #06283D;
+    color: bisque;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 15%;
+    margin-left: 150px;
+    height: 200px;
+}
+
+.down table {
+    padding: 0;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
+.down table .judul {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.down table tr td {
+    padding-left: 10px;
+    width: fit-content;
+    padding-bottom: 10px;
+    font-size: 20px;   
+
+}
+table{
+    position: absolute;
+    left: 23%;
+
+}
